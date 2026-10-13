@@ -361,3 +361,12 @@ main[b-gv4gl9ovon] {
         opacity: 0;
     }
 }
+/* /Components/Pages/Cliente.razor.rz.scp.css */
+   /* [ZAP] Estilos movidos desde atributos style="" en línea (bloqueados por la CSP) */
+   .col-acciones[b-j0ixebvm3j] {
+       width: 170px;
+   }
+
+   .modal-fondo[b-j0ixebvm3j] {
+       background-color: rgba(0, 0, 0, .5);
+   }

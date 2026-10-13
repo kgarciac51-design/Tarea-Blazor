@@ -1,11 +1,11 @@
+C:\Users\usuario\OneDrive\Desktop\WebEmpresa\bin\Debug\net10.0\WebEmpresa.exe
+C:\Users\usuario\OneDrive\Desktop\WebEmpresa\bin\Debug\net10.0\WebEmpresa.dll
 C:\Users\usuario\OneDrive\Desktop\WebEmpresa\bin\Debug\net10.0\appsettings.Development.json
 C:\Users\usuario\OneDrive\Desktop\WebEmpresa\bin\Debug\net10.0\appsettings.json
 C:\Users\usuario\OneDrive\Desktop\WebEmpresa\bin\Debug\net10.0\WebEmpresa.staticwebassets.runtime.json
 C:\Users\usuario\OneDrive\Desktop\WebEmpresa\bin\Debug\net10.0\WebEmpresa.staticwebassets.endpoints.json
-C:\Users\usuario\OneDrive\Desktop\WebEmpresa\bin\Debug\net10.0\WebEmpresa.exe
 C:\Users\usuario\OneDrive\Desktop\WebEmpresa\bin\Debug\net10.0\WebEmpresa.deps.json
 C:\Users\usuario\OneDrive\Desktop\WebEmpresa\bin\Debug\net10.0\WebEmpresa.runtimeconfig.json
-C:\Users\usuario\OneDrive\Desktop\WebEmpresa\bin\Debug\net10.0\WebEmpresa.dll
 C:\Users\usuario\OneDrive\Desktop\WebEmpresa\bin\Debug\net10.0\WebEmpresa.pdb
 C:\Users\usuario\OneDrive\Desktop\WebEmpresa\obj\Debug\net10.0\EmbeddedAttribute.cs
 C:\Users\usuario\OneDrive\Desktop\WebEmpresa\obj\Debug\net10.0\ValidatableTypeAttribute.cs
@@ -15,6 +15,7 @@ C:\Users\usuario\OneDrive\Desktop\WebEmpresa\obj\Debug\net10.0\WebEmpresa.Assemb
 C:\Users\usuario\OneDrive\Desktop\WebEmpresa\obj\Debug\net10.0\WebEmpresa.AssemblyInfo.cs
 C:\Users\usuario\OneDrive\Desktop\WebEmpresa\obj\Debug\net10.0\WebEmpresa.csproj.CoreCompileInputs.cache
 C:\Users\usuario\OneDrive\Desktop\WebEmpresa\obj\Debug\net10.0\WebEmpresa.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\usuario\OneDrive\Desktop\WebEmpresa\obj\Debug\net10.0\WebEmpresa.sourcelink.json
 C:\Users\usuario\OneDrive\Desktop\WebEmpresa\obj\Debug\net10.0\rjimswa.dswa.cache.json
 C:\Users\usuario\OneDrive\Desktop\WebEmpresa\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
 C:\Users\usuario\OneDrive\Desktop\WebEmpresa\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
@@ -68,11 +69,8 @@ C:\Users\usuario\OneDrive\Desktop\WebEmpresa\obj\Debug\net10.0\compressed\ihb8ki
 C:\Users\usuario\OneDrive\Desktop\WebEmpresa\obj\Debug\net10.0\compressed\9k4xk4dg0i-{0}-h1s4sie4z3-h1s4sie4z3.gz
 C:\Users\usuario\OneDrive\Desktop\WebEmpresa\obj\Debug\net10.0\compressed\lvtdcewe68-{0}-63fj8s7r0e-63fj8s7r0e.gz
 C:\Users\usuario\OneDrive\Desktop\WebEmpresa\obj\Debug\net10.0\compressed\rv9qegl2gd-{0}-0j3bgjxly4-0j3bgjxly4.gz
-C:\Users\usuario\OneDrive\Desktop\WebEmpresa\obj\Debug\net10.0\compressed\wp2hl5a9y6-{0}-abdmv1u4y3-abdmv1u4y3.gz
 C:\Users\usuario\OneDrive\Desktop\WebEmpresa\obj\Debug\net10.0\compressed\czg58uw7ri-{0}-wyu7y4jcvb-wyu7y4jcvb.gz
 C:\Users\usuario\OneDrive\Desktop\WebEmpresa\obj\Debug\net10.0\compressed\ii2kuv8op5-{0}-wfr2hj6447-wfr2hj6447.gz
-C:\Users\usuario\OneDrive\Desktop\WebEmpresa\obj\Debug\net10.0\compressed\w4g0qddxe0-{0}-yp5qmf0qrn-yp5qmf0qrn.gz
-C:\Users\usuario\OneDrive\Desktop\WebEmpresa\obj\Debug\net10.0\compressed\dh12jam8cu-{0}-yp5qmf0qrn-yp5qmf0qrn.gz
 C:\Users\usuario\OneDrive\Desktop\WebEmpresa\obj\Debug\net10.0\staticwebassets.build.json
 C:\Users\usuario\OneDrive\Desktop\WebEmpresa\obj\Debug\net10.0\staticwebassets.build.json.cache
 C:\Users\usuario\OneDrive\Desktop\WebEmpresa\obj\Debug\net10.0\staticwebassets.development.json
@@ -83,3 +81,8 @@ C:\Users\usuario\OneDrive\Desktop\WebEmpresa\obj\Debug\net10.0\refint\WebEmpresa
 C:\Users\usuario\OneDrive\Desktop\WebEmpresa\obj\Debug\net10.0\WebEmpresa.pdb
 C:\Users\usuario\OneDrive\Desktop\WebEmpresa\obj\Debug\net10.0\WebEmpresa.genruntimeconfig.cache
 C:\Users\usuario\OneDrive\Desktop\WebEmpresa\obj\Debug\net10.0\ref\WebEmpresa.dll
+C:\Users\usuario\OneDrive\Desktop\WebEmpresa\obj\Debug\net10.0\scopedcss\Components\Pages\Cliente.razor.rz.scp.css
+C:\Users\usuario\OneDrive\Desktop\WebEmpresa\obj\Debug\net10.0\compressed\xg3ceadsr7-{0}-n5524sl81c-n5524sl81c.gz
+C:\Users\usuario\OneDrive\Desktop\WebEmpresa\obj\Debug\net10.0\compressed\wp2hl5a9y6-{0}-7sifjxx3ex-7sifjxx3ex.gz
+C:\Users\usuario\OneDrive\Desktop\WebEmpresa\obj\Debug\net10.0\compressed\w4g0qddxe0-{0}-h4e3jn8q04-h4e3jn8q04.gz
+C:\Users\usuario\OneDrive\Desktop\WebEmpresa\obj\Debug\net10.0\compressed\dh12jam8cu-{0}-h4e3jn8q04-h4e3jn8q04.gz

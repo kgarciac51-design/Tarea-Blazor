@@ -27,10 +27,6 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/usuario/OneDrive/Desktop/WebEmpresa/Components/Pages/Cliente.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDbGllbnRlLnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/usuario/OneDrive/Desktop/WebEmpresa/Components/Pages/Error.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
@@ -62,3 +58,7 @@ build_metadata.AdditionalFiles.CssScope = b-blsbophmnv
 [C:/Users/usuario/OneDrive/Desktop/WebEmpresa/Components/Layout/ReconnectModal.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcUmVjb25uZWN0TW9kYWwucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-9z5pueqh32
+
+[C:/Users/usuario/OneDrive/Desktop/WebEmpresa/Components/Pages/Cliente.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDbGllbnRlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-j0ixebvm3j

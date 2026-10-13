@@ -43,7 +43,7 @@
                         <th>Dirección</th>
                         <th>Teléfono</th>
                         <th>Fecha nacimiento</th>
-                        <th class="text-center" style="width:170px">Acciones</th>
+                       <th class="text-center col-acciones">Acciones</th>
                     </tr>
                 </thead>
                 <tbody>
@@ -95,7 +95,7 @@
 @* ===== Modal Crear / Editar ===== *@
 @if (mostrarModal)
 {
-    <div class="modal fade show d-block" tabindex="-1" style="background-color: rgba(0,0,0,.5);">
+    <div class="modal fade show d-block modal-fondo" tabindex="-1">
         <div class="modal-dialog modal-lg modal-dialog-centered">
             <div class="modal-content">
                 <EditForm Model="cliente" OnValidSubmit="Guardar">
@@ -165,7 +165,7 @@
 @* ===== Modal Confirmar Eliminación ===== *@
 @if (clienteEliminar is not null)
 {
-    <div class="modal fade show d-block" tabindex="-1" style="background-color: rgba(0,0,0,.5);">
+    <div class="modal fade show d-block modal-fondo" tabindex="-1">
         <div class="modal-dialog modal-dialog-centered">
             <div class="modal-content">
                 <div class="modal-header">
